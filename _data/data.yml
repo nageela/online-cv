@@ -67,16 +67,19 @@ education:
           - Web Development
           - Technology Stacks
           - Cloud Computing
+
+          - Bullet point
+          - Bullet point
     
     - degree: Cert BA, Business Accounting
       university: The Chartered Institute of Management Accountants
       time: 2015 - 2015
 
-    - degree: Master of Arts
+    - degree: MA International Politics 
       university: King's College London 
       time: 2003 - 2004
 
-    - degree: Bachelor of Arts
+    - degree: BA Archaeology 
       university: University College London 
       time: 1999 - 2002
       details: |
@@ -85,10 +88,19 @@ education:
           - Bullet point
           - Bullet point
 
+    - degree: Photography, Media, English  
+      university: Ealing Tertiary College 
+      time: 1997 - 1999
+      details: |
+        Reprographics and imaging. Photo enhancement. Research in file compression formats.  
+
+          - Bullet point
+          - Bullet point
+          
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Head of Product 
+      time: 2016 - Present
+      company: Cerebriam Studio, London 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -103,31 +115,20 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
+    - role: Head of Product 
       time: 2012 - 2014
-      company: Amazon, London
+      company: Cerebriam Technology, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Having worked closely with the lead product engineer for three years, I was able to rapidly develop two prototypes 
+        using two different hardware platforms in order to test the company’s software applications. Software application 
+        test sprints were organised to identify the best development platform in terms of performance and functionality. 
+        The chosen platform then went through a phase of production engineering and cost accounting to ensure the highest 
+        quality product would be manufactured in an efficient manner, and an optimised bill of materials.
 
-          - Bullet point
-          - Bullet point
+        Specific tasks include: hardware specifications, finding suppliers, supplier due diligence, review of supplier logistics, 
+        optimising bill of materials, hardware prototyping, user centered design consultations, product chassis design, 
+        mechanical design, compiling build environment on Linux. 
+
 
 projects:
     title: Projects

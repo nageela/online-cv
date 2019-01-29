@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Nageela Yusuf
+    tagline: Head of Product 
+    avatar: crop2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: nageela@cerebriam.co.uk
+    phone: 079 4786 8345
+    website: cerebriam.co.uk #do not add http://
+    linkedin: nageela-yusuf-7807157
+    github: nageela
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@neo_geela'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,56 +28,60 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Urdu 
+        level: Conversational
 
     interests:
-      - item: Climbing
+      - item: Film 
         link:
 
-      - item: Snowboarding
+      - item: Photography 
         link:
 
-      - item: Cooking
+      - item: Computer Vision 
         link:
 
+      - item: Machine Learning 
+        link:
+        
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Experienced product developer having lead the research, ideation, design, and 
+      build of two video products working across hardware and software. 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - course: Mathematics for Machine Learning
+      university: Coursera - Imperial College London 
+      time: 2019 - 2019
+      
+    - course: Computer Science for Business Professionals
+      university: edX - HarvardX
+      time: 2017 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      Six modules covering:  
+
+          - Computational Thinking
+          - Programming Languages
+          - Internet Technologies
+          - Web Development
+          - Technology Stacks
+          - Cloud Computing
+    
+    - course: Cert BA, Business Accounting
+      university: The Chartered Institute of Management Accountants
+      time: 2015 - 2015
+
+    - degree: Master of Arts
+      university: King's College London 
+      time: 2003 - 2004
+
+    - degree: Bachelor of Arts
+      university: University College London 
+      time: 1999 - 2002
+      details: |
+        Reprographics and imaging. Photo enhancement. Research in file compression formats.  
 
           - Bullet point
           - Bullet point

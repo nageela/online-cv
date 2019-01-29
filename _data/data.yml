@@ -52,16 +52,15 @@ career-profile:
 
 education:
 
-    - course: Mathematics for Machine Learning
+    - degree: Mathematics for Machine Learning
       university: Coursera - Imperial College London 
       time: 2019 - 2019
       
-    - course: Computer Science for Business Professionals
+    - degree: Computer Science for Business Professionals
       university: edX - HarvardX
       time: 2017 - 2018
       details: |
-      Six modules covering:  
-
+ 
           - Computational Thinking
           - Programming Languages
           - Internet Technologies
@@ -69,7 +68,7 @@ education:
           - Technology Stacks
           - Cloud Computing
     
-    - course: Cert BA, Business Accounting
+    - degree: Cert BA, Business Accounting
       university: The Chartered Institute of Management Accountants
       time: 2015 - 2015
 

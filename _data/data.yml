@@ -59,7 +59,6 @@ education:
     - degree: Computer Science for Business Professionals
       university: edX - HarvardX
       time: 2017 - 2018
-      details: |
  
           - Computational Thinking
           - Programming Languages
@@ -182,22 +181,31 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+       - name: Team Leadership
+        level: 83%      
+        
+       - name: Photoshop
         level: 95%
-
-      - name: Ruby on Rails
+        
+      - name: HTML & CSS
+        level: 70%
+        
+       - name: Swift and iOS
+        level: 60%
+        
+       - name: Quantitative & Qualitative Research 
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: MS Excel 
+        level: 90%
+
+      - name: Tableau
+        level: 70%
+
+      - name: Video Recording & Editing 
+        level: 95%
+
+      - name: Figma
         level: 60%
 
 footer: >

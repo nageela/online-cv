@@ -212,7 +212,8 @@ skills:
 
       - name: Ruby on Rails
         level: 85%
-              - name: Python & Django
+        
+      - name: Python & Django
         level: 98%
 
       - name: Javascript & jQuery

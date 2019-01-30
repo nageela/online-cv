@@ -193,13 +193,13 @@ publications:
         authors: Yusuf, N., and Luckin, R. (Ed)
         conference: UCL IoE Press, London, 2018
 
-      - title: "A Year of Moocs: is Online Learning Really that Disruptive?"
+      - title: A Year of Moocs: is Online Learning Really that Disruptive?
         authors: Yusuf, N.
-        conference: "Pixel Recorder, London, 2013"
+        conference: Pixel Recorder, London, 2013
 
       - title: Tomorrow's Photos: Reviewing Compression and Print Technology for Use in Repropraphics and Archival Records
         authors: Yusuf, N.
-        conference: "Archaeological Illustration and Photography", London, 2001
+        conference: Archaeological Illustration and Photography, London, 2001
         
         - title: See no Evil, Speak no Evil, Hear no Evil: the Lost Works of Donald McCullin and Wilfred Owen
         conference: London 1999
@@ -208,22 +208,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-       - name: Agile Methodologies (Scrum &amp Kanban)
+      - name: Agile Methodologies (Scrum &amp Kanban)
         level: 87%    
   
-       - name: Team Leadership
+      - name: Team Leadership
         level: 83%      
         
-       - name: Photoshop
+      - name: Photoshop
         level: 95%
         
       - name: HTML & CSS
         level: 70%
         
-       - name: Swift & iOS
+      - name: Swift & iOS
         level: 60%
         
-       - name: Quantitative & Qualitative Research 
+      - name: Quantitative & Qualitative Research 
         level: 85%
 
       - name: MS Excel 

@@ -59,16 +59,6 @@ education:
     - degree: Computer Science for Business Professionals
       university: edX - HarvardX
       time: 2017 - 2018
- 
-          - Computational Thinking
-          - Programming Languages
-          - Internet Technologies
-          - Web Development
-          - Technology Stacks
-          - Cloud Computing
-
-          - Bullet point
-          - Bullet point
     
     - degree: Cert BA, Business Accounting
       university: The Chartered Institute of Management Accountants
@@ -84,17 +74,11 @@ education:
       details: |
         Reprographics and imaging. Photo enhancement. Research in file compression formats.  
 
-          - Bullet point
-          - Bullet point
-
     - degree: Photography, Media, English  
       university: Ealing Tertiary College 
       time: 1997 - 1999
       details: |
         Reprographics and imaging. Photo enhancement. Research in file compression formats.  
-
-          - Bullet point
-          - Bullet point
           
 experiences:
     - role: Head of Product 

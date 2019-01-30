@@ -135,6 +135,10 @@ projects:
      I have lead, and controbuted to, dozens of projects over the last decade, here are some stand out examples chosen because they embody significant change in working practicesses, and/or are technically innovative:
 
     assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        
       - title: Set-up Wizard & Custom Desktop for Video Recording
         link: "#hook"
         tagline: "Built with C++ and Qt to run on Linux, this application made it simple for non-technical people set-up and use video recording hardware."

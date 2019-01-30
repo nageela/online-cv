@@ -136,7 +136,7 @@ projects:
 
     assignments:
       - title: Opticorder
-        link: "https://www.ucl-ioe-press.com/books/schools-and-schooling/enhancing-learning-and-teaching-with-technology/"
+        link: "#"
         tagline: "Built around the Nvidia Jetson Tegra K1 development board, the Opticorder was a fully functional prototype hardware of a video recording device which was simple to use straight on of the box. 
 
       - title: Set-up Wizard & Custom Desktop for Video Recording

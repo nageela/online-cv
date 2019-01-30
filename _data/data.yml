@@ -10,8 +10,6 @@ sidebar:
     tagline: Head of Product 
     avatar: crop2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-   theme_skin: berry
-
     # Sidebar links
     email: nageela@cerebriam.co.uk
     phone: 079 4786 8345
@@ -147,13 +145,13 @@ projects:
         tagline: "Worked with colleagues in Marketing and Communications to collect requirements, and instructing third party business card printer
         on how to streamline workflow for business card printing while maintaining branding, quality control over content, and overall efficiency."
 
-      - title: Implementing Technology to Register Delelates at Events
+      - title: Implementing Technology to Register Delegates at Events
         link: "#"
         tagline: "Working with Colleagues in the Events team I shortlisted, reviewed, and trialled software and hardware in preperation for the roll
         out of the iOS app and iPad to the Events team, and was on hand to support with trouble shooting at the event, and improvements required to the process
         and technology after the event."
 
-      - title: Project Management of Design and Lanuch of New Website 
+      - title: Project Management of Design and Launch of New Website 
         link: "#"
         tagline: "I conducted a survey to identify needs, wrote a web design and development brief, shortlisted and interviewed developers, worked 
         through the development and launch in a modular fashion, monitored each module launch stage, and managed debugging."

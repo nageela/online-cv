@@ -2,13 +2,15 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Nageela Yusuf
     tagline: Head of Product 
     avatar: crop2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+   theme_skin: berry
 
     # Sidebar links
     email: nageela@cerebriam.co.uk

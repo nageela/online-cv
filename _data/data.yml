@@ -135,13 +135,13 @@ projects:
      I have lead, and controbuted to, dozens of projects over the last decade, here are some stand out examples chosen because they embody significant change in working practicesses, and/or are technically innovative:
 
     assignments:
-      - title: Opticorder
-        link: "#"
-        tagline: "Built around the Nvidia Jetson Tegra K1 development board, the Opticorder was a fully functional prototype hardware of a video recording device which was simple to use straight on of the box." 
-
       - title: Set-up Wizard & Custom Desktop for Video Recording
         link: "#"
         tagline: "Built with C++ and Qt to run on Linux, this application made it simple for non-technical people set-up and use video recording hardware."
+
+      - title: Opticorder
+        link: "#"
+        tagline: "Built around the Nvidia Jetson Tegra K1 development board, the Opticorder was a fully functional prototype hardware of a video recording device which was simple to use straight on of the box." 
 
       - title: Nvidia Shield TK1 Tablet Hack 
         link: "#"

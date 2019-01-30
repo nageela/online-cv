@@ -132,55 +132,69 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     I have lead, and controbuted to, dozens of projects over the last decade, here are some stand out examples chosen because they embody significant change in working practicesses, and/or are technically innovative:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Opticorder
+        link: "https://www.ucl-ioe-press.com/books/schools-and-schooling/enhancing-learning-and-teaching-with-technology/"
+        tagline: "Built around the Nvidia Jetson Tegra K1 development board, the Opticorder was a fully functional prototype hardware of a video recording device which was simple to use straight on of the box. 
 
-      - title: DevStudio
+      - title: Set-up Wizard & Custom Desktop for Video Recording
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Built with C++ and Qt to run on Linux, this application made it simple for non-technical people set-up and use video recording hardware."
 
-      - title: Tempo
+      - title: Nvidia Shield TK1 Tablet Hack 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "This project involved a hack of the Shield TK1 tablet to support Linux OS for a rapid build prototype"
 
-      - title: Atom
+      - title: Targeted Multimedia Communications 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Repurposed and customised video content uploaded to video card themed in a style known to be popular with target user."
 
-      - title: Delta
+      - title: Gamifying University Open Days
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "An application using geolocation and bar codes to encourage prospective students to explore a campus and learn about the university, while learning how to improve their addmissions application."
+
+       - title: Streaming Business Card Publishing Workflow
+        link: "#"
+        tagline: "Working with colleagues in Marketing and Communications to collect requirements, and instructing third party business card printer on how to streamline workflow for business cards while maintaining branding, quality control over content, and overall efficiency."
+ 
+      - title: Implementing Technology to Scan Delegates During Event Registration   
+        link: "#"
+        tagline: "Working with colleagues in the Events team I shortlisted, reviewed, and trialled software and hardware in preparation for the roll out of the iOS app and iPad to the Events team, and was on hand to support with trouble shooting at the event, and improvments required to process and technology after the event. "
+
+      - title: Project Management of Design and Launch of New Website 
+        link: "basas.org.uk"
+        tagline: "For this project I conducted a survey to identify needs, wrote a web design and development briaf, shortlisted and interviewed developers, worked through the development and launch in a modular fashion, monitered each module launch stage, and managed debugging."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Some of my publications and research papers related to digital innovation and social impact, educational technology, video, and imaging.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Video for Learning in Enhancing Learning and Teaching with Technology
+        authors: Yusuf, N., and Luckin, R. (Ed)
+        conference: UCL IoE Press, London, 2018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "A Year of Moocs: is Online Learning Really that Disruptive?"
+        authors: Yusuf, N.
+        conference: "Pixel Recorder, London, 2013"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Tomorrow's Photos: Reviewing Compression Algorythms and Print Technology for Use in Repropraphics and Archival Records
+        authors: Yusuf, N.
+        conference: "Archaeological Illustration and Photography", London, 2001
+        
+        - title: See no Evil, Speak no Evil, Hear no Evil: the Lost Works of Donald McCullin and Wilfred Owen
+        conference: London 1999
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
+       - name: Agile Methodologies (Scrum and Kanban)
+        level: 87%    
+  
        - name: Team Leadership
         level: 83%      
         
@@ -190,7 +204,7 @@ skills:
       - name: HTML & CSS
         level: 70%
         
-       - name: Swift and iOS
+       - name: Swift & iOS
         level: 60%
         
        - name: Quantitative & Qualitative Research 

@@ -97,17 +97,8 @@ experiences:
       time: 2016 - Present
       company: Cerebriam Studio, London 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Carried out UX/UI research to understand user journeys and pain points to better understand user requirements before designing and prototyping video recording application in Swift for iOS.
+       
     - role: Head of Product 
       time: 2012 - 2014
       company: Cerebriam Technology, London
@@ -123,13 +114,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have lead, and contributed to, over two dozen projects in the last decade. Here are some stand out examples chosen because they embody
+      significant change in work processes and/or are technically innovative.
     assignments:
-      - title: Velocity
+      - title: Opticorder
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Built around the Nvidia Jetson Tegra K1 development board, the Opticorder is a fully functional hardware prototype of a video recording device whic his simple to use straight out of the box."
 
       - title: DevStudio
         link: "#"

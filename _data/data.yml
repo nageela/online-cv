@@ -1,4 +1,195 @@
+# Be aware that even a small syntax error here can lead to failures in output.
 #
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Nageela Yusuf
+    tagline: Head of Product 
+    avatar: crop2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: nageela@cerebriam.co.uk
+    phone: 079 4786 8345
+    website: cerebriam.co.uk #do not add http://
+    linkedin: nageela-yusuf-7807157
+    github: nageela
+    gitlab:
+    bitbucket:
+    twitter: '@neo_geela'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Urdu 
+        level: Conversational
+
+    interests:
+      - item: Film 
+        link:
+
+      - item: Photography 
+        link:
+
+      - item: Computer Vision 
+        link:
+
+      - item: Machine Learning 
+        link:
+        
+career-profile:
+    title: Career Profile
+    summary: |
+      Experienced product developer having lead the research, ideation, design, and 
+      build of two video products working across hardware and software. 
+education:
+
+    - degree: Mathematics for Machine Learning
+      university: Coursera - Imperial College London 
+      time: 2019 - 2019
+      
+    - degree: Computer Science for Business Professionals
+      university: edX - HarvardX
+      time: 2017 - 2018
+      details: |
+ 
+          - Computational Thinking
+          - Programming Languages
+          - Internet Technologies
+          - Web Development
+          - Technology Stacks
+          - Cloud Computing
+
+          - Bullet point
+          - Bullet point
+    
+    - degree: Cert BA, Business Accounting
+      university: The Chartered Institute of Management Accountants
+      time: 2015 - 2015
+
+    - degree: MA International Politics 
+      university: King's College London 
+      time: 2003 - 2004
+
+    - degree: BA Archaeology 
+      university: University College London 
+      time: 1999 - 2002
+      details: |
+        Reprographics and imaging. Photo enhancement. Research in file compression formats.  
+          - Bullet point
+          - Bullet point
+    - degree: Photography, Media, English  
+      university: Ealing Tertiary College 
+      time: 1997 - 1999
+      details: |
+        Reprographics and imaging. Photo enhancement. Research in file compression formats.  
+          - Bullet point
+          - Bullet point
+          
+experiences:
+    - role: Head of Product 
+      time: 2016 - Present
+      company: Cerebriam Studio, London 
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Head of Product 
+      time: 2012 - 2014
+      company: Cerebriam Technology, London
+      details: |
+        Having worked closely with the lead product engineer for three years, I was able to rapidly develop two prototypes 
+        using two different hardware platforms in order to test the company’s software applications. Software application 
+        test sprints were organised to identify the best development platform in terms of performance and functionality. 
+        The chosen platform then went through a phase of production engineering and cost accounting to ensure the highest 
+        quality product would be manufactured in an efficient manner, and an optimised bill of materials.
+        Specific tasks include: hardware specifications, finding suppliers, supplier due diligence, review of supplier logistics, 
+        optimising bill of materials, hardware prototyping, user centered design consultations, product chassis design, 
+        mechanical design, compiling build environment on Linux. 
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 

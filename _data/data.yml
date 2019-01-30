@@ -122,10 +122,6 @@ projects:
         tagline: "Built around the Nvidia Jetson Tegra K1 development board, the Opticorder is a fully functional hardware prototype 
         of a video recording device which is simple to use straight out of the box."
 
-      - title: Deep Learning for Identifying Wardrobe Items 
-        link: "#"
-        tagline: "Participated in bootcamp to learn about deep learning, neural networks, and computer vision. We built an app which could identify items of clothing in a wardrobe."
-        
       - title: Set-up Wizard and Custom Desktop for Video Recording 
         link: "#"
         tagline: "Built with C++ and Qt to run on Linux, this application made it simple for non-technical people to to set-up and 
@@ -169,49 +165,68 @@ publications:
         authors: Yusuf, N. and Luckin, R. (Ed)
         conference: UCL IoE Press, London, 2018
 
-      - title: Tomorrows Photos: Reviewing Compression and Print Technology for Use in Reprographics and Archival Records
+      - title: ""
         authors: Yusuf, N.
-        conference: Archaeological Illustration and Photography, London, 2001
+        conference: ""
 
-      - title: See no Evil, Speak no Evil, Hear no Evil: the Lost Works of Donald McCullin and Wilfred Owen
+      - title: 
         authors: Yusuf, N.
-        conference: London 1999
+        conference: ""
+
+      - title: 
+        authors: Yusuf, N.
+        conference: "London 1999"
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Agile Methodologies (Scrum & Kanban)
-        level: 84%
+      - name: Python & Django
+        level: 98%
 
-      - name: Team Leadership
-        level: 87%
-             
-      - name: Communication Skills
-        level: 93%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: Photoshop
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
         level: 95%
 
-      - name: HTML & CSS
-        level: 70%
+      - name: Ruby on Rails
+        level: 85%
 
-      - name: Swift and iOS
-        level: 60%
-
-      - name: Quantitative and Qualitative Research
-        level: 85%      
+      - name: Sketch & Photoshop
+        level: 60%      
         
-      - name: MS Excel 
-        level: 90%
+      - name: Python & Django
+        level: 98%
 
-      - name: Tableau
-        level: 70%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: Video Recording and Editing 
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
         level: 95%
 
-      - name: Figma
-        level: 60%
+      - name: Ruby on Rails
+        level: 85%
+        
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>#

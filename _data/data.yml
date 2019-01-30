@@ -131,7 +131,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
+    intro: |
      I have lead, and controbuted to, dozens of projects over the last decade, here are some stand out examples chosen because they embody significant change in working practicesses, and/or are technically innovative:
 
     assignments:
@@ -165,7 +165,7 @@ projects:
 
       - title: Project Management of Design and Launch of New Website 
         link: "basas.org.uk"
-        tagline: "For this project I conducted a survey to identify needs, wrote a web design and development briaf, shortlisted and interviewed developers, worked through the development and launch in a modular fashion, monitered each module launch stage, and managed debugging."
+        tagline: "For this project I conducted a survey to identify needs, wrote a web design and development brief, shortlisted and interviewed developers, worked through the development and launch in a modular fashion, monitered each module launch stage, and managed debugging."
 
 publications:
     title: Publications

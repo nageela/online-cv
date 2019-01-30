@@ -132,20 +132,19 @@ experiences:
 projects:
     title: Projects
     intro: >
-     I have lead, and controbuted to, dozens of projects over the last decade, here are some stand out examples chosen because they embody significant change in working practicesses, and/or are technically innovative:
+     I have lead, and controbuted to, dozens of projects over the last decade, here are some stand out examples chosen because 
+     they embody significant change in working practicesses, and/or are technically innovative:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-        
       - title: Set-up Wizard & Custom Desktop for Video Recording
         link: "#hook"
-        tagline: "Built with C++ and Qt to run on Linux, this application made it simple for non-technical people set-up and use video recording hardware."
+        tagline: "Built with C++ and Qt to run on Linux, this application made it simple for non-technical people set-up and use 
+        video recording hardware."
 
       - title: Opticorder
         link: "#"
-        tagline: "Built around the Nvidia Jetson Tegra K1 development board, the Opticorder was a fully functional prototype hardware of a video recording device which was simple to use straight on of the box." 
+        tagline: "Built around the Nvidia Jetson Tegra K1 development board, the Opticorder was a fully functional prototype 
+        hardware of a video recording device which was simple to use straight on of the box." 
 
       - title: Nvidia Shield TK1 Tablet Hack 
         link: "#"
@@ -157,24 +156,32 @@ projects:
 
       - title: Gamifying University Open Days
         link: "#"
-        tagline: "An application using geolocation and bar codes to encourage prospective students to explore a campus and learn about the university, while learning how to improve their addmissions application."
+        tagline: "An application using geolocation and bar codes to encourage prospective students to explore a campus and learn 
+        about the university, while learning how to improve their addmissions application."
 
        - title: Streaming Business Card Publishing Workflow
         link: "#"
-        tagline: "Working with colleagues in Marketing and Communications to collect requirements, and instructing third party business card printer on how to streamline workflow for business cards while maintaining branding, quality control over content, and overall efficiency."
+        tagline: "Working with colleagues in Marketing and Communications to collect requirements, and instructing third party 
+        business card printer on how to streamline workflow for business cards while maintaining branding, quality control over 
+        content, and overall efficiency."
  
       - title: Implementing Technology to Scan Delegates During Event Registration   
         link: "#"
-        tagline: "Working with colleagues in the Events team I shortlisted, reviewed, and trialled software and hardware in preparation for the roll out of the iOS app and iPad to the Events team, and was on hand to support with trouble shooting at the event, and improvments required to process and technology after the event. "
+        tagline: "Working with colleagues in the Events team I shortlisted, reviewed, and trialled software and hardware in 
+        preparation for the roll out of the iOS app and iPad to the Events team, and was on hand to support with trouble 
+        shooting at the event, and improvments required to process and technology after the event."
 
       - title: Project Management of Design and Launch of New Website 
         link: "basas.org.uk"
-        tagline: "For this project I conducted a survey to identify needs, wrote a web design and development brief, shortlisted and interviewed developers, worked through the development and launch in a modular fashion, monitered each module launch stage, and managed debugging."
+        tagline: "For this project I conducted a survey to identify needs, wrote a web design and development brief, shortlisted 
+        and interviewed developers, worked through the development and launch in a modular fashion, monitered each module 
+        launch stage, and managed debugging."
 
 publications:
     title: Publications
     intro: |
-      Some of my publications and research papers related to digital innovation and social impact, educational technology, video, and imaging.
+      Some of my publications and research papers related to digital innovation and social impact, educational technology, 
+      video, and imaging.
 
     papers:
       - title: Video for Learning in Enhancing Learning and Teaching with Technology
@@ -185,7 +192,7 @@ publications:
         authors: Yusuf, N.
         conference: "Pixel Recorder, London, 2013"
 
-      - title: Tomorrow's Photos: Reviewing Compression Algorythms and Print Technology for Use in Repropraphics and Archival Records
+      - title: Tomorrow's Photos: Reviewing Compression and Print Technology for Use in Repropraphics and Archival Records
         authors: Yusuf, N.
         conference: "Archaeological Illustration and Photography", London, 2001
         

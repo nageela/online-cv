@@ -135,7 +135,6 @@ projects:
      I have lead, and controbuted to, dozens of projects over the last decade, here are some stand out examples chosen because they embody significant change in working practicesses, and/or are technically innovative:
 
     assignments:
-    
       - title: Opticorder
         link: "#"
         tagline: "Built around the Nvidia Jetson Tegra K1 development board, the Opticorder was a fully functional prototype hardware of a video recording device which was simple to use straight on of the box. 

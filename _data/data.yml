@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced product developer having lead the research, ideation, design, and 
+      Experienced product developer having led the research, ideation, design, and 
       build of two video products working across hardware and software. Keen on understanding user journeys and pain points to 
       guide the development of useful products which are truly delightful. 
       
@@ -128,7 +128,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I have lead, and contributed to, over two dozen projects in the last decade. Here are some stand out examples chosen because they embody
+      I have led, and contributed to, over two dozen projects in the last decade. Here are some stand out examples chosen because they embody
       significant change in work processes and/or are technically innovative.
     assignments:
       - title: Opticorder (start-up) <br>
@@ -136,36 +136,37 @@ projects:
         tagline: "Built around the Nvidia Jetson Tegra K1 development board, the Opticorder is a fully functional hardware prototype 
         of a video recording device which is simple to use straight out of the box."
 
-      - title: Set-up Wizard and Custom Desktop for Video Recording (start-up)
-        link: "#"
-        tagline: "Built with C++ and Qt to run on Linux, this application made it simple for non-technical people to to set-up and 
-        use video recording hardware."
-
-      - title: Nvidia Shield TK1 Tablet Hack (start-up)
-        link: "#"
-        tagline: "This project involved a hack of the Shield TK1 tablet to support Linux OS for a rapid build prototype"
-
-      - title: Targeted Multimedia Communications (start-up)
+      - title: Targeted Multimedia Communications (start-up) <br>
         link: "#"
         tagline: "Repurposed and customised video content uploaded to video card themed in a style known to be popular with target user."
 
-      - title: Gamifying University Open Days (University of West London)
+      - title: Gamifying University Open Days (University of West London)<br>
         link: "#"
         tagline: "A mobile applications using geolocation and bar codes to encourage prospective students to explore the campus and 
         learn about the university, while learning how to improve their addmissions application."
         
-      - title: Streamlining Business Card Printing Workflow (University of West London)
+      - title: Streamlining Business Card Printing Workflow (University of West London)<br>
         link: "#"
         tagline: "Worked with colleagues in Marketing and Communications to collect requirements, and instructing third party business card printer
         on how to streamline workflow for business card printing while maintaining branding, quality control over content, and overall efficiency."
 
-      - title: Implementing Technology to Register Delegates at Events (University of West London)
+      - title: Implementing Technology to Register Delegates at Events (University of West London)<br>
         link: "#"
         tagline: "Working with Colleagues in the Events team I shortlisted, reviewed, and trialled software and hardware in preperation for the roll
         out of the iOS app and iPad to the Events team, and was on hand to support with trouble shooting at the event, and improvements required to the process
         and technology after the event."
+        
+        
+      - title: Set-up Wizard and Custom Desktop for Video Recording (start-up)<br>
+        link: "#"
+        tagline: "Built with C++ and Qt to run on Linux, this application made it simple for non-technical people to to set-up and 
+        use video recording hardware."
 
-      - title: Project Management of Design and Launch of New Website (University of West London)
+      - title: Nvidia Shield TK1 Tablet Hack (start-up)<br>
+        link: "#"
+        tagline: "This project involved a hack of the Shield TK1 tablet to support Linux OS for a rapid build prototype"
+
+      - title: Project Management of Design and Launch of New Website (BASAS)<br>
         link: "#"
         tagline: "I conducted a survey to identify needs, wrote a web design and development brief, shortlisted and interviewed developers, worked 
         through the development and launch in a modular fashion, monitored each module launch stage, and managed debugging."

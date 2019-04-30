@@ -40,6 +40,9 @@ sidebar:
       - item: Computer Vision 
         link:
 
+      - item: Image Processing  
+        link:
+        
       - item: Machine Learning 
         link:
         
@@ -48,6 +51,12 @@ career-profile:
     summary: |
       Experienced product developer having lead the research, ideation, design, and 
       build of two video products working across hardware and software. 
+      
+      Former videographer and HTML/CSS web developer (European Commission), experienced market researcher and marketer 
+      (Network Rail), competent with project management, budget management and financial projections (University of West London), 
+      with a Chartered Institute of Management Accountant’s certificate in Business Accounting.  
+      
+      
 education:
 
     - degree: Mathematics for Machine Learning
@@ -103,7 +112,7 @@ experiences:
       time: 2012 - 2014
       company: Cerebriam Technology, London
       details: |
-        Having worked closely with the lead product engineer for three years, I was able to rapidly develop two prototypes 
+        Having worked closely with the lead product engineer, I was able to rapidly develop two prototypes 
         using two different hardware platforms in order to test the company’s software applications. Software application 
         test sprints were organised to identify the best development platform in terms of performance and functionality. 
         The chosen platform then went through a phase of production engineering and cost accounting to ensure the highest 
